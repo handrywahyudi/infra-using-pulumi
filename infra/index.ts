@@ -1,6 +1,5 @@
 import "./vpc";
 import "./secgroup";
-import "./ec2";
 import { mainRule } from "./secgroup";
 import { mainVpc, publicSubnet } from "./vpc";
 
